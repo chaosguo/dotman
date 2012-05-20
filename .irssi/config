@@ -99,7 +99,6 @@ chatnets = {
   fn = {
     type = "IRC";
     nick = "xiaodong";
-    autosendcmd = "/^msg nickserv IDENTIFY lhy20xxd9";
   };
 };
 
