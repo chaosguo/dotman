@@ -96,10 +96,7 @@ chatnets = {
     max_whois = "30";
   };
   SILC = { type = "SILC"; };
-  fn = {
-    type = "IRC";
-    nick = "xiaodong";
-  };
+  fn = { type = "IRC"; nick = "xiaodong"; };
 };
 
 channels = (
